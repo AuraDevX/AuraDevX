@@ -1,9 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Solomon Donwiah Manu</h1>
 <h3 align="center">Computer Science Student | Full Stack Developer | Data Analyst | AI/ML Enthusiast</h3>
 
 <p align="center">
-  Passionate about building scalable web applications, transforming data into insights, and developing intelligent systems.
+  Passionate about building scalable web applications, transforming data into insights, and developing intelligent, privacy-focused systems.
 </p>
 
 ---
@@ -14,6 +13,7 @@
 - 💻 Full Stack Developer (MERN Stack)  
 - 📊 Data Analyst  
 - 🤖 Currently learning Artificial Intelligence & Machine Learning  
+- 🔐 Interested in Privacy-Aware AI Systems  
 - 🌱 Expanding my skills in Deep Learning & Model Deployment  
 - 🎯 Seeking Internship / Entry-Level Opportunities (Software, Data, AI)  
 - 📍 Ghana  
@@ -63,15 +63,37 @@
 
 ## 📌 Featured Projects
 
+### 🔐 Privacy-Aware Biometric Attendance System (Live)
+
+🚀 **Live Demo:** https://privacy-aware-biometric-attendance.vercel.app/login  
+
+A role-based biometric attendance management system designed with privacy-by-design principles.
+
+**Highlights:**
+- 🔑 Role-Based Authentication (Admin, Lecturer, Student)
+- 📊 Real-time attendance dashboards
+- 🧠 Biometric scanning simulation
+- 🔐 Privacy-focused enrollment architecture
+- 📱 Fully responsive UI
+- 🌍 Deployed on Vercel
+
+**Tech:** React, Vite, Context API, Role-Based Routing, CSS  
+
+---
+
 ### 🌍 Full Stack Web Application
 - Built a responsive web app with authentication and REST APIs  
 - Implemented secure login & protected routes  
 - **Tech:** MongoDB, Express, React, Node.js  
 
+---
+
 ### 📊 Data Analysis Project
 - Cleaned and analyzed datasets  
 - Built visual dashboards  
 - **Tools:** Python, Pandas, Matplotlib  
+
+---
 
 ### 🤖 Machine Learning Project (In Progress)
 - Exploring supervised & unsupervised learning  
