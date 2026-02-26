@@ -16,8 +16,6 @@
 - 🔐 Interested in Privacy-Aware AI Systems  
 - 🌱 Expanding my skills in Deep Learning & Model Deployment  
 - 🎯 Seeking Internship / Entry-Level Opportunities (Software, Data, AI)  
-- 📍 Ghana  
-- 📫 **solomondonwiah@gmail.com**
 
 ---
 
