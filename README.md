@@ -1,76 +1,96 @@
-# Solomon Donwiah Manu 👋
 
-🎓 Computer Science Student  
-💻 Full Stack Developer  
-📊 Data Analyst  
+<h1 align="center">Hi 👋, I'm Solomon Donwiah Manu</h1>
+<h3 align="center">Computer Science Student | Full Stack Developer | Data Analyst | AI/ML Enthusiast</h3>
 
----
-
-## 👨‍💻 About Me
-
-Motivated CS student passionate about building scalable web apps and transforming data into actionable insights.
-
-- 🌱 Currently improving my Full Stack & Data Science skills
-- 🎯 Seeking Internship / Entry-Level Opportunities
-- 📫 solomondonwiah@gmail.com
+<p align="center">
+  Passionate about building scalable web applications, transforming data into insights, and developing intelligent systems.
+</p>
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 About Me
 
-## 💻 Programming Languages
+- 🎓 Computer Science Student  
+- 💻 Full Stack Developer (MERN Stack)  
+- 📊 Data Analyst  
+- 🤖 Currently learning Artificial Intelligence & Machine Learning  
+- 🌱 Expanding my skills in Deep Learning & Model Deployment  
+- 🎯 Seeking Internship / Entry-Level Opportunities (Software, Data, AI)  
+- 📍 Ghana  
+- 📫 **solomondonwiah@gmail.com**
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,sql" />
 </p>
 
-## 🌐 Frontend Development
+### 🌐 Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-## ⚙️ Backend Development
+### ⚙️ Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## 🗄 Databases
+### 🗄 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-## 📊 Data Analysis Tools
+### 🤖 AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
+
+### 📊 Data & Analytics
+<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
-# 🚀 Projects
+## 📌 Featured Projects
 
-### 🌍 Full Stack Application
-- Built a responsive web application with authentication and REST APIs  
-- **Tech:** MERN Stack  
+### 🌍 Full Stack Web Application
+- Built a responsive web app with authentication and REST APIs  
+- Implemented secure login & protected routes  
+- **Tech:** MongoDB, Express, React, Node.js  
 
 ### 📊 Data Analysis Project
-- Cleaned, analyzed, and visualized datasets to generate insights  
+- Cleaned and analyzed datasets  
+- Built visual dashboards  
 - **Tools:** Python, Pandas, Matplotlib  
+
+### 🤖 Machine Learning Project (In Progress)
+- Exploring supervised & unsupervised learning  
+- Working on model evaluation and optimization  
+- Tools: Scikit-learn, TensorFlow / PyTorch  
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/solomon-donwiah-b7b228309" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:solomondonwiah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -78,4 +98,4 @@ Motivated CS student passionate about building scalable web apps and transformin
 
 ---
 
-⭐ Open to internships, collaborations, and entry-level roles!
+⭐ Open to internships, collaborations, and AI/Data/Software roles!
